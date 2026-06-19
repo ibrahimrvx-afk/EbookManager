@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <em>বই মুক্ত হোক। জ্ঞান মুক্ত হোক।</em><br/>
+  <em>FREE THE BOOKS | FREE THE KNOWLEDGE</em><br/>
   <em>Let books be free. Let knowledge be free.</em>
 </p>
 
@@ -267,5 +267,5 @@ Built with love by **[@FuckYouHasina](https://t.me/FuckYouHasina)** for the Beng
 
 This bot exists to make books and knowledge accessible to everyone, everywhere — free and open, always.
 
-> *বই পড়ুন, জ্ঞান বাড়ান।*
+> *Be Curious | Be a Crew*
 > *Read books. Grow your mind.*
