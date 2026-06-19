@@ -1,0 +1,96 @@
+{
+  "backup_group_id": -1001234567890,
+  "analytics_group": -1001234567891,
+  "request_group": -1001234567890,
+  "brand_channel": "@YourChannel",
+  "source_credit": "@YourSourceGroup",
+  "sources": [
+    "@SourceGroup1",
+    "@SourceGroup2",
+    "-1001234567892"
+  ],
+  "search_mode": "public",
+  "dm_purge_secs": 600,
+  "dm_template": "default",
+  "search_result_purge_secs": 300,
+  "userbot_username": "YourUserbotUsername",
+  "assigned_chats": [
+    {
+      "chat_id": -1001234567890,
+      "thread_id": 1234,
+      "purge_seconds": 3600
+    }
+  ],
+  "trigger_chats": [
+    {
+      "chat_id": -1001234567893,
+      "thread_id": null,
+      "purge_seconds": 18000
+    }
+  ],
+  "extra_admins": [
+    111111111
+  ],
+  "spam_cfg": {
+    "search_cooldown": 10,
+    "daily_dl_limit": 30,
+    "page_cooldown": 1.5,
+    "request_max": 5,
+    "request_window": 600,
+    "query_min_len": 2,
+    "query_max_len": 100,
+    "chat_rate_limit": 20,
+    "chat_rate_window": 60,
+    "flood_msgs": 5,
+    "flood_window": 10,
+    "flood_mute": 300,
+    "warn_on_cooldown": true
+  },
+  "custom_templates": {
+    "onuron": "📚 {book_name}\n──────────────────────\n🌐 Powered by: \n\n[Fahad](https://t.me/excuse_me_fahad)\n\n[CCR TEAM](https://t.me/CuriousCrewReturn)\n\n\n📦 Source: অনলাইন প্ল্যাটফর্ম থেকে বই সংগ্রহে (অনুরণ পাঠক ফোরাম)\nআমরা কোনো প্রকাশনী নয়।\n\n👤\nThis book was downloaded by {user_mention}\n──────────────────────\n⏳ This file will be deleted in {purge_time}",
+    "dm_template": "📚 **{book_name}**\n📦 Source: {book_source_link}\n👤 For: {user_mention}\n⏳ Deletes in {purge_time}"
+  },
+  "group_templates": [
+    {
+      "chat_id": -1001234567893,
+      "thread_id": null,
+      "template": "default"
+    }
+  ],
+  "keyword_alerts": {},
+  "vip_users": [
+    111111111
+  ],
+  "vip_custom_limits": {},
+  "vip_perms": {
+    "bypass_search_cooldown": true,
+    "bypass_book_cooldown": false,
+    "bypass_flood_check": true,
+    "higher_dl_limit": true,
+    "priority_download": true,
+    "request_unlimited": true
+  },
+  "vip_card_style": {
+    "header": "🌟 VIP Members 🌟",
+    "border": "★",
+    "emoji": "⭐",
+    "footer": "Powered by the bot 🤖"
+  },
+  "book_aliases": {},
+  "broadcast_report_chats": [
+    {
+      "chat_id": -1001234567891,
+      "thread_id": null,
+      "daily": true,
+      "weekly": false
+    }
+  ],
+  "botd_chats": [
+    {
+      "chat_id": -1001234567891,
+      "thread_id": null
+    }
+  ],
+  "report_time": "+06:00",
+  "report_timezone": "UTC"
+}
